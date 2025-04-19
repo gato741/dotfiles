@@ -8,4 +8,6 @@
 - `rofi`
 - `lxappearance`
 - `xinit`
-- `terminus-font`
+
+**Fonts:**
+- `https://www.nerdfonts.com/font-downloads` (terminus/ibm)
