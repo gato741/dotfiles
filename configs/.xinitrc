@@ -1,5 +1,6 @@
 xset b off &
-# feh --bg-scale /w/a/l/l/p/a/p/e/r.png &
-picom &
+feh --bg-scale /home/gato/Pictures/wall5.png &
 slstatus &
+picom &
+setxkbmap pl &
 exec dwm
