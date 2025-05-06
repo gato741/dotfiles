@@ -1,1 +1,1 @@
-`https://www.nerdfonts.com/font-downloads` (terminus/ibm)
+`https://www.nerdfonts.com/font-downloads` (terminus/ibm/hack)
