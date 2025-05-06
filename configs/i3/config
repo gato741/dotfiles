@@ -184,5 +184,6 @@ mode "resize" {
 bindsym $mod+r mode "resize"
 
 exec_always --no-startup-id feh --bg-scale ~/Pictures/wall1.png
+#exec_always --no-startup-id feh --bg-scale ~/Pictures/wall2.png
 exec_always --no-startup-id ~/.config/polybar/launch.sh
 exec_always picom
